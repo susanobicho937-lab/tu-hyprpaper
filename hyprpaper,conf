@@ -1,0 +1,9 @@
+reload = /home/wasabi/Pictures/Wallpapers/fariwashe.jpg
+
+wallpaper {
+    monitor = eDP-1
+    path = /home/wasabi/Pictures/Wallpapers/fariwashe.jpg
+}
+
+splash = false
+ipc = off
